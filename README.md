@@ -9,9 +9,9 @@ In this project, I developed a data analysis report to identify customer prefere
 
 ## Dataset
 
-Source: [Kaggle](car_prices.csv)
-Format: CSV
-Size: 534114 rows, 15 columns
+- Source: [Kaggle](car_prices.csv)
+- Format: CSV
+- Size: 534114 rows, 15 columns
 
 ## Tools and Libraries
 - Python
