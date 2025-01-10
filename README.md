@@ -33,6 +33,9 @@ In this project, I developed a data analysis report to identify customer prefere
    ```bash
    jupyter notebook Car_Sales_Analysis.ipynb
 ## Key Findings
+- Price profile created by region
+- Car sales ranking by region: 1.West 2.Southeast 3.Midwest 4.Northeast 5.Southwest
+- Similar seasonal trend: The first quarter of the year is the best time to sell, and July is the worst.
 
 ## LICENSE
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/pedrinhomendes/USA-Car-Sales-Analysis-Report/blob/main/LICENSE) file for details.
