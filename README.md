@@ -25,7 +25,9 @@ In this project, I developed a data analysis report to identify customer prefere
    git clone git@github.com:pedrinhomendes/USA-Car-Sales-Analysis-Report.git
 
 2. Install dependencies:
-
+    ```bash
+    pip pip install -r requirements.txt
+    
 ## Usage
 1. Open the Jupyter Notebook:
    ```bash
